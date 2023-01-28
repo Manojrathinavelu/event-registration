@@ -5,34 +5,146 @@ To design, develop and deploy a web application for event registration.
 
 ## DESIGN STEPS:
 
-### Step 1:
+## Step 1:
+Create a new frame.
 
+## Step 2:
+Select any one preset size of your choice.
 
-### Step 2:
+## Step 3:
+Select the shapes you need.
 
+## Step 4:
+Import images as needed
 
-### Step 3:
+## Step 5:
+Create pages based on your need and link them
 
-
-### Step 4:
-
-
-### Step 5:
-
-### Step 6:
-
+## Step 6:
 Validate the HTML and CSS code.
 
-### Step 6:
-
+## Step 7:
 Publish the website in the given URL.
 
-## DESIGN:
-
 ## PROGRAM :
+```
+/* Home Page */
+position: relative;
+width: 360px;
+height: 640px;
+background: #FF0808;
 
+/* Login Page */
+position: relative;
+width: 360px;
+height: 640px;
+background: #FFF50F;
+
+/* Saveetha Engineering College */
+position: absolute;
+width: 324px;
+height: 36px;
+left: 18px;
+top: 13px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+text-align: center;
+color: #101010;
+
+/* DEPARTMENTS */
+position: absolute;
+width: 324px;
+height: 36px;
+left: 18px;
+top: 247px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+text-align: center;
+color: #101010;
+
+/* AI-ML */
+position: absolute;
+width: 324px;
+height: 36px;
+left: 18px;
+top: 317px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+text-align: center;
+color: #101010;
+
+/* AI-DS */
+position: absolute;
+width: 324px;
+height: 36px;
+left: 18px;
+top: 373px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+text-align: center;
+color: #101010;
+
+/* IOT */
+position: absolute;
+width: 324px;
+height: 36px;
+left: 18px;
+top: 429px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+text-align: center;
+color: #101010;
+
+/* CC */
+position: absolute;
+width: 324px;
+height: 36px;
+left: 18px;
+top: 485px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+text-align: center;
+color: #101010;
+
+/* Line 3 */
+position: absolute;
+width: 360px;
+height: 0px;
+left: 0px;
+top: 83px;
+border: 4px solid #172DF5;
+
+/* Logo 3 */
+position: absolute;
+width: 105px;
+height: 96px;
+left: 127px;
+top: 117px;
+background: url(Logo.png);
+```
 ## OUTPUT:
+![image](https://user-images.githubusercontent.com/119560395/215271580-5dde6789-e6b1-49e4-b1df-0fd1000bed7b.png)
+![image](https://user-images.githubusercontent.com/119560395/215271596-34cbee4d-c0d4-447b-b28b-62c5d69fbac7.png)
+![image](https://user-images.githubusercontent.com/119560395/215271607-7067e715-b8a7-4215-97ea-2eaac932c371.png)
 
 
 ## Result:
-
+The program to design, develop and deploy a web application for event registration is completed successfully.
